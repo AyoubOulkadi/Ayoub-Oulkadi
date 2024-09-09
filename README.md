@@ -1,7 +1,7 @@
 # Ayoub-Oulkadi
 <h1 align="center">Hi 👋, I'm Ayoub Oulkadi </h1>
 
-<h3 align="center">Data Engineer enthousisat | Passionate about Cloud ☁️ and Data Science 🧠</h3>
+<h3 align="center">Data Engineer | Passionate about Cloud ☁️ and AI 🧠</h3>
 <br>
 
 
