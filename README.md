@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ###  Orchestration tools
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
 ###  Containerization 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <h2 align="left">You can find me in</h2>
 <a href="https://www.linkedin.com/in/ayoub-oulkadi/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+
+# Let's collaborate, learn, and grow together in the world of data engineering! 🚀
