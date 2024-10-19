@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 ###  Containerization 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Certifications
+- 🏅 **AWS Certified Cloud Practitioner**
+- 🏅 **DBT Fundamentals**
+
 <h2 align="left">You can find me in</h2>
 <a href="https://www.linkedin.com/in/ayoub-oulkadi/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
 
